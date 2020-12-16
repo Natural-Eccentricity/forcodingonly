@@ -9,7 +9,7 @@ const #videoplayer1.settings = lazy(url
  ("settings list url") => import('settings.list/
 #videoplayer1')/url);
 
-This is my version of react.com using my version if 'json':
+This is my version of react.com using my version of 'json':
 
 import React, { lazy } from 'react.lazy.js';
 
