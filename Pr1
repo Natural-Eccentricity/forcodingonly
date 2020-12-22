@@ -1,0 +1,7 @@
+https://github.com/Natural-Eccentricity/forcodingonly.git
+
+This script is just one of the scripts affected by react.lazy.
+import = React.lazy(), react.lazy() from 'http://www.natureseccentricity.com?param1=public/react.lazy.js';
+// const AvatarComponent = "http://www.natureseccentricity.com?param1=nuavatarComponent/lazy";
+// script = "http://natureseccentricity.com?param1=Chunk.min.js";
+// url = "http://static.parastorage.com/services/editor-elements/dist/vendors~VideoPlayer.fea8155d.chunk.min.js";
